@@ -1,0 +1,150 @@
+[2024-03-19T15:28:34.543514+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.550478+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.552670+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.553458+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.554151+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.555976+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.556630+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.558607+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.559311+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.560304+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.560785+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.725950+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.726608+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:34.727221+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.181233+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_1"}} []
+[2024-03-19T15:28:35.181820+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_2"}} []
+[2024-03-19T15:28:35.182097+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_3"}} []
+[2024-03-19T15:28:35.182285+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_4"}} []
+[2024-03-19T15:28:35.182716+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_5"}} []
+[2024-03-19T15:28:35.391976+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_1"}} []
+[2024-03-19T15:28:35.392554+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_2"}} []
+[2024-03-19T15:28:35.393041+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_3"}} []
+[2024-03-19T15:28:35.393429+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_4"}} []
+[2024-03-19T15:28:35.393742+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"identifier":"DB_PDO_MYSQL_DDL_customer_grid_flat_5"}} []
+[2024-03-19T15:28:35.564123+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.565240+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.566082+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.796350+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.797036+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.797493+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.797930+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.798350+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.799061+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.799484+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.800296+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.800925+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.801442+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.801882+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.803200+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.803743+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-03-19T15:28:35.804287+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:12.898502+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2024-03-19T15:41:12.901236+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":[],"mode":"all"}} []
+[2024-03-19T15:41:25.918665+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.920429+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.921253+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["LAYOUT_GENERAL_CACHE_TAG"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.921767+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["BLOCK_HTML"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.922156+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COLLECTION_DATA"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.922596+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["REFLECTION"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.923123+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["DB_DDL"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.923507+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["COMPILED_CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.924119+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["EAV"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.924570+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["CUSTOMER_NOTIFICATION"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.924927+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.925338+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["INTEGRATION_API_CONFIG"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.925946+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["FPC"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.926362+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["WEBSERVICE"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:25.926834+00:00] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["TRANSLATE"],"mode":"matchingTag"}} []
+[2024-03-19T15:41:35.822929+00:00] main.INFO: /usr/bin/php8.1 -f /var/www/html/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+full_page
+config_webservice
+translate [] []
+[2024-03-19T15:42:53.977108+00:00] main.INFO: /usr/bin/php8.1 -f /var/www/html/bin/magento setup:di:compile 2>&1
+Compilation was started.
+%message% 0/9 [>---------------------------]   0% < 1 sec 117.0 MiBProxies code generation... 0/9 [>---------------------------]   0% < 1 sec 117.0 MiB
+Proxies code generation... 1/9 [===>------------------------]  11% < 1 sec 121.0 MiB
+Repositories code generation... 1/9 [===>------------------------]  11% < 1 sec 121.0 MiB
+Repositories code generation... 2/9 [======>---------------------]  22% 10 secs 242.0 MiB
+Service data attributes generation... 2/9 [======>---------------------]  22% 10 secs 242.0 MiB
+Service data attributes generation... 3/9 [=========>------------------]  33% 11 secs 242.0 MiB
+Application code generator... 3/9 [=========>------------------]  33% 11 secs 242.0 MiB
+Application code generator... 4/9 [============>---------------]  44% 27 secs 266.0 MiB
+Interceptors generation... 4/9 [============>---------------]  44% 27 secs 266.0 MiB
+Interceptors generation... 5/9 [===============>------------]  55% 47 secs 302.0 MiB
+Area configuration aggregation... 5/9 [===============>------------]  55% 47 secs 302.0 MiB
+Area configuration aggregation... 6/9 [==================>---------]  66% 55 secs 402.0 MiB
+Interception cache generation... 6/9 [==================>---------]  66% 55 secs 402.0 MiB
+Interception cache generation... 7/9 [=====================>------]  77% 1 min 402.0 MiB
+App action list generation... 7/9 [=====================>------]  77% 1 min 402.0 MiB
+App action list generation... 8/9 [========================>---]  88% 1 min 402.0 MiB
+Plugin list generation... 8/9 [========================>---]  88% 1 min 402.0 MiB
+Plugin list generation... 9/9 [============================] 100% 1 min 402.0 MiB
+Generated code and dependency injection configuration successfully. [] []
+[2024-03-19T15:42:56.738060+00:00] main.INFO: /usr/bin/php8.1 -f /var/www/html/bin/magento cache:flush 2>&1
+Flushed cache types:
+config
+layout
+block_html
+collections
+reflection
+db_ddl
+compiled_config
+eav
+customer_notification
+config_integration
+config_integration_api
+full_page
+config_webservice
+translate [] []
+[2024-03-19T15:43:24.123949+00:00] main.INFO: /usr/bin/php8.1 -f /var/www/html/bin/magento setup:static-content:deploy -f en_US 2>&1
+
+Deploy using quick strategy
+frontend/Magento/blank/en_US            0/2182              >--------------------------- 0%     < 1 sec
+[1A[2Kfrontend/Magento/blank/en_US            696/2182            ========>------------------- 31%    1 sec
+[1A[2Kfrontend/Magento/blank/en_US            1680/2182           =====================>------ 76%    2 secs
+[1A[2Kfrontend/Magento/blank/en_US            2097/2182           ==========================>- 96%    5 secs
+[1A[2Kfrontend/Magento/blank/en_US            2101/2182           ==========================>- 96%    6 secs
+[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         365/2881            ===>------------------------ 12%    1 sec
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         1492/2881           ==============>------------- 51%    2 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2585/2881           =========================>-- 89%    3 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2657/2881           =========================>-- 92%    8 secs
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             696/2198            ========>------------------- 31%    1 sec
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             1860/2198           =======================>---- 84%    2 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2097/2198           ==========================>- 95%    5 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2099/2198           ==========================>- 95%    6 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2101/2198           ==========================>- 95%    7 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2198/2198           ============================ 100%   7 secs
+[1A[2K[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2182/2182           ============================ 100%   6 secs
+adminhtml/Magento/backend/en_US         2881/2881           ============================ 100%   8 secs
+frontend/Magento/luma/en_US             2198/2198           ============================ 100%   7 secs
+
+Execution time: 25.446367025375 [] []

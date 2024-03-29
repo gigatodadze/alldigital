@@ -1,0 +1,5 @@
+[2024-03-19T15:28:10.603371+00:00] INFO: Magento 2 Community Edition, version 2.4.6.0-patch4  
+[2024-03-19T15:28:10.603631+00:00] NOTICE: Start of applying optional patches  
+[2024-03-19T15:28:10.603670+00:00] INFO: Command argument: MDVA-30106 MDVA-12304 MDVA-19640 MDVA-39305-V2 MDVA-51204   
+[2024-03-19T15:28:11.996115+00:00] INFO: Magento 2 Community Edition, version 2.4.6.0-patch4  
+[2024-03-19T15:28:11.996320+00:00] ERROR: Next patches weren't found: MDVA-30106 MDVA-12304 MDVA-19640 MDVA-39305-V2 MDVA-51204 . Please, check with "status" command availability of these patches for the current Magento version.  
