@@ -1,0 +1,58 @@
+<div class="clearfix"></div>
+<div class="top-content-home">
+	<div class="banner-top-home">
+		<div class="container">
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_top')->toHtml();?>
+		</div>
+	</div>
+	<div class="wrapper-main-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-md-3 left-content">
+					<div class="onsale-countdown">
+						<?php echo $block->getLayout()->createBlock('Rokanthemes\PriceCountdown\Block\Pricecountdown')->setTemplate('Rokanthemes_PriceCountdown::pricecountdown.phtml')->toHtml();?>			
+					</div>
+					<div class="box-banner-middle section-banner-left hidden-sm hidden-xs">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle_left')->toHtml();?>
+					</div>
+					<div class="box-new-sale">
+						<?php echo $block->getLayout()->createBlock('Rokanthemes\Newproduct\Block\Newproduct')->setTemplate('Rokanthemes_Newproduct::newproduct.phtml')->toHtml();?> 
+					</div>
+					<div class="section-blog hidden-sm hidden-xs">
+						<?php echo $block->getLayout()->createBlock('Rokanthemes\Blog\Block\Sidebar\Recent')->setTemplate('Rokanthemes_Blog::sidebar/slider.phtml')->toHtml();?>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-9 right-content">
+					<div class="section-category-tab category-tab-1">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat1_slider')->toHtml();?>
+					</div>
+					<div class="box-banner-middle">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle')->toHtml();?>
+					</div>
+					<div class="section-category-tab category-tab-2">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat2_slider')->toHtml();?>
+					</div>
+					<div class="box-banner-middle box-banner-middle-2">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle2')->toHtml();?>
+					</div>
+					<div class="section-category-tab category-tab-3">
+						<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat3_slider')->toHtml();?>
+					</div>
+					<div class="section-brands">
+						<?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('section_brands')->toHtml(); ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="section-services">
+		<div class="container">
+			<div class="support-footer-inner">
+				<div class="row">
+					<?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('section_services')->toHtml(); ?>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
